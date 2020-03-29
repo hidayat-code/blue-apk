@@ -1,0 +1,2 @@
+# blue-apk
+template blog
